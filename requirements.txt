@@ -1,0 +1,6 @@
+pandas
+matplotlib
+mlxtend
+scikit-learn
+jupyter
+notebook
